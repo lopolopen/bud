@@ -3,6 +3,6 @@ package demo
 import "fmt"
 
 func Hello() {
-	ver := "v1.1.1"
+	ver := "v1.1.2"
 	fmt.Printf("hello, bud. %s\n", ver)
 }
